@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![](https://visitcount.itsvg.in/api?id=arseniox&icon=5&color=2)](https://visitcount.itsvg.in)
+
+---
 # 💫 About Me:
 I'm currently studying a CFGS of DAM at CIFP Francesc de Borja Moll.<br>I also love 3D and Animation related matter.<br>I'm interested about AI and Machine Learning.<br>Some of my hobbies are rugby, books, videogames and numismatics.
 
@@ -19,8 +22,3 @@ I'm currently studying a CFGS of DAM at CIFP Francesc de Borja Moll.<br>I also l
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arseniox&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=arseniox&icon=5&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
