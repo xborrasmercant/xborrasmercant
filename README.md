@@ -4,7 +4,7 @@
 
 ---
 # 💫 About Me:
-I'm currently studying a CFGS of DAM at CIFP Francesc de Borja Moll.<br>I also love 3D and Animation related matter.<br>I'm interested about AI and Machine Learning.<br>Some of my hobbies are rugby, books, videogames and numismatics.
+I'm currently studying a CFGS of DAM at CIFP Francesc de Borja Moll.<br><br>I'm also interested about AI and Machine Learning.<br>Some of my hobbies are rugby, 3D modelling-animation related, books, videogames and numismatics.
 
 
 ## 🌐 Socials:
